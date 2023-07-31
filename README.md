@@ -1,7 +1,7 @@
 # Android App - Body Mass Index (BMI) Calculator
 
-![IMC](https://drive.google.com/file/d/1QBFFpi8hUBWN7772ffTE0y5L3V6GaiVj/view?usp=sharing)
-![TODO](https://drive.google.com/file/d/1JzZyd6Zxi1lEltLNUqhzj0yGfJ0ztqgU/view?usp=sharing)
+![IMC](https://drive.google.com/file/d/1QBFFpi8hUBWN7772ffTE0y5L3V6GaiVj/view?usp=drive_link)
+![TODO](https://drive.google.com/file/d/1JzZyd6Zxi1lEltLNUqhzj0yGfJ0ztqgU/view?usp=drive_link)
 
 ## Description
 This Android app allows two functionalities. Users to calculate their Body Mass Index (BMI) and provides a to-do list feature with various categories.
