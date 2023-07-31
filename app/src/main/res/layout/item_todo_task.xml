@@ -6,6 +6,7 @@
     android:layout_marginVertical="4dp"
     app:cardBackgroundColor="@color/todo_backgroud_card"
     app:cardCornerRadius="16dp"
+    android:layout_marginHorizontal="8dp"
     xmlns:tools="http://schemas.android.com/tools">
 
     <LinearLayout
